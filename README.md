@@ -1,2 +1,3 @@
 # hello_world
-Tutorial
+
+This is the first time I use git
